@@ -1,0 +1,13 @@
+package org.demos.multi.modules;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MultiModulesApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
